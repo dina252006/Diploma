@@ -1,0 +1,6 @@
+model_name,fold,best_validation_accuracy,best_validation_f1,training_time,average_epoch_time,model_path
+ResNet18,1,0.963976504940074,0.9638777212107871,2899.596492767334,483.2599313656489,/content/drive/MyDrive/Diploma/diploma_hccr/models/resnet18_fold_1.pth
+ResNet18,2,0.9655722676807117,0.9657526200015548,2899.1526091098785,483.18279206752777,/content/drive/MyDrive/Diploma/diploma_hccr/models/resnet18_fold_2.pth
+ResNet18,3,0.9668285064339796,0.9668171022802161,2862.569897174835,477.08417729536694,/content/drive/MyDrive/Diploma/diploma_hccr/models/resnet18_fold_3.pth
+ResNet18,4,0.9715478898584184,0.9715892428032353,2884.6470153331757,480.765008687973,/content/drive/MyDrive/Diploma/diploma_hccr/models/resnet18_fold_4.pth
+ResNet18,5,0.9677791735986148,0.9678733658254776,2899.6457760334015,483.26592286427814,/content/drive/MyDrive/Diploma/diploma_hccr/models/resnet18_fold_5.pth

@@ -1,0 +1,2 @@
+model_name,best_fold,best_validation_accuracy,best_validation_f1,mean_validation_accuracy,std_validation_accuracy,mean_validation_f1,std_validation_f1,test_accuracy,test_f1,number_of_parameters,model_size_mb,total_training_time,average_epoch_time
+ResNet18,4,0.9715478898584184,0.9715892428032353,0.9671408685023597,0.0028460738738840664,0.9671820104242542,0.0028721208049743326,0.9601230488777487,0.960368093841658,11293878,43.11949920654297,14447.737076997757,481.51156645615896

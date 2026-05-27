@@ -1,0 +1,6 @@
+model_name,fold,best_validation_accuracy,best_validation_f1,training_time,average_epoch_time,model_path
+LW-ViT,1,0.8442263945947781,0.8436273588045199,1345.4682030677795,134.54122653007508,/content/drive/MyDrive/Diploma/diploma_hccr/models/lwvit_fold_1.pth
+LW-ViT,2,0.8787899365090144,0.8786445804408294,1329.7722461223602,132.9720593214035,/content/drive/MyDrive/Diploma/diploma_hccr/models/lwvit_fold_2.pth
+LW-ViT,3,0.8636471666723254,0.8630665835228124,1326.4070060253143,132.63516137599944,/content/drive/MyDrive/Diploma/diploma_hccr/models/lwvit_fold_3.pth
+LW-ViT,4,0.8663633585712831,0.8661715843240387,1327.140515089035,132.70832109451294,/content/drive/MyDrive/Diploma/diploma_hccr/models/lwvit_fold_4.pth
+LW-ViT,5,0.8621532611278987,0.8617797474894189,1321.1721312999725,132.11066670417785,/content/drive/MyDrive/Diploma/diploma_hccr/models/lwvit_fold_5.pth

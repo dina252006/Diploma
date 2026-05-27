@@ -1,0 +1,6 @@
+model_name,fold,best_validation_accuracy,best_validation_f1,training_time,average_epoch_time,model_path
+SimpleCNN,1,0.9716157946558924,0.971629472298393,1269.4354572296143,126.93912270069123,/content/drive/MyDrive/Diploma/diploma_hccr/models/simple_cnn_5fold_fold_1.pth
+SimpleCNN,2,0.9707669846874681,0.970803785639355,1244.240550994873,124.41960155963898,/content/drive/MyDrive/Diploma/diploma_hccr/models/simple_cnn_5fold_fold_2.pth
+SimpleCNN,3,0.9699181747190438,0.9699430109599855,1229.9668962955475,122.99219052791595,/content/drive/MyDrive/Diploma/diploma_hccr/models/simple_cnn_5fold_fold_3.pth
+SimpleCNN,4,0.9706651274912572,0.9706914409082196,1238.4627861976624,123.84152588844299,/content/drive/MyDrive/Diploma/diploma_hccr/models/simple_cnn_5fold_fold_4.pth
+SimpleCNN,5,0.9729738906053713,0.97299726737645,1229.4177451133728,122.93701908588409,/content/drive/MyDrive/Diploma/diploma_hccr/models/simple_cnn_5fold_fold_5.pth

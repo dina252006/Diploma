@@ -1,0 +1,6 @@
+model_name,fold,best_validation_accuracy,best_validation_f1,training_time,average_epoch_time,model_path
+PF-ViT,1,0.9345737276338574,0.9346071683151069,1328.094863653183,132.8053069114685,/content/drive/MyDrive/Diploma/diploma_hccr/models/pfvit_fold_1.pth
+PF-ViT,2,0.9145757647777816,0.9148149739854194,1311.9819631576538,131.19300565719604,/content/drive/MyDrive/Diploma/diploma_hccr/models/pfvit_fold_2.pth
+PF-ViT,3,0.9412963025837775,0.941380880628236,1302.0868628025055,130.20429158210754,/content/drive/MyDrive/Diploma/diploma_hccr/models/pfvit_fold_3.pth
+PF-ViT,4,0.936135537975758,0.9362134230497139,1319.9052307605743,131.9851459980011,/content/drive/MyDrive/Diploma/diploma_hccr/models/pfvit_fold_4.pth
+PF-ViT,5,0.9410246833938818,0.9411427787509531,1307.249894618988,130.72001297473906,/content/drive/MyDrive/Diploma/diploma_hccr/models/pfvit_fold_5.pth

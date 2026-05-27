@@ -1,0 +1,2 @@
+model_name,mean_validation_accuracy,mean_validation_f1,validation_std,best_fold,test_accuracy,test_f1,number_of_parameters,model_size_mb,total_training_time,average_epoch_time
+SimpleCNN,0.9711879944318065,0.9712129954364807,0.0011657100110822236,5,0.9618605446052182,0.9619331117470046,1431382,5.467674255371094,6216.1728515625,124.22589195251464

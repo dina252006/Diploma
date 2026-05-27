@@ -1,0 +1,2 @@
+model_name,mean_validation_accuracy,mean_validation_f1,validation_accuracy_std,validation_f1_std,best_fold,best_validation_accuracy,best_validation_f1,test_accuracy,test_f1,number_of_parameters,model_size_mb,total_training_time,average_epoch_time,cnn_stem_channels,patch_size,embed_dim,depth,num_heads,mlp_dim
+PF-ViT,0.9335212032730112,0.9336318449458858,0.0109957557318866,0.01093334480561638,3,0.9412963025837775,0.941380880628236,0.9318958641904979,0.9319829173322239,784982,2.9952163696289062,6569.98327755928,131.38155262470246,64,4,128,4,4,256

@@ -1,0 +1,2 @@
+model_name,mean_validation_accuracy,mean_validation_f1,validation_accuracy_std,validation_f1_std,best_fold,best_validation_accuracy,best_validation_f1,test_accuracy,test_f1,number_of_parameters,model_size_mb,total_training_time,average_epoch_time,patch_size,embed_dim,depth,num_heads,mlp_dim
+LW-ViT,0.8630360234950599,0.8626579709163238,0.012391648787661592,0.012560051764100839,2,0.8787899365090144,0.8786445804408294,0.8736185484789791,0.873665740429191,643190,2.4535751342773438,6650.71629858017,132.99348700523376,8,128,4,4,256

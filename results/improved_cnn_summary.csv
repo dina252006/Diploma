@@ -1,0 +1,2 @@
+model_name,best_fold,best_validation_accuracy,best_validation_f1,mean_validation_accuracy,std_validation_accuracy,mean_validation_f1,std_validation_f1,test_accuracy,test_f1,number_of_parameters,model_size_mb,total_training_time,average_epoch_time
+ImprovedCNN,5,0.9753505585169592,0.9753502371044873,0.974141853121923,0.0007413761077760993,0.9741658737259332,0.0007282201786073226,0.9659906574000228,0.9660451123487113,3779222,14.433761596679688,6546.621068239212,130.911877784729

@@ -1,0 +1,18 @@
+
+Experimental Model Comparison Conclusion
+
+The best model by test accuracy is Improved CNN with:
+- Test accuracy: 0.9660
+- Test macro F1-score: 0.9660
+- Number of parameters: 3,779,222
+
+The best model by test macro F1-score is Improved CNN with:
+- Test macro F1-score: 0.9660
+- Test accuracy: 0.9660
+
+The smallest model is LW-ViT with:
+- Number of parameters: 643,190
+- Test accuracy: 0.8736
+- Test macro F1-score: 0.8737
+
+Based on the comparison, Improved CNN is recommended as the final recognition model for the software module because it achieved the highest test accuracy and strong macro F1-score.
