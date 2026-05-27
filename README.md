@@ -117,7 +117,7 @@ The application allows the user to:
 - view the top-5 predictions.
 
 Demo video:  
-`PASTE_YOUR_VIDEO_DEMO_LINK_HERE`
+`[PASTE_YOUR_VIDEO_DEMO_LINK_HERE](https://drive.google.com/file/d/1rfakvsSzL93-UaUOHtq4BfXhGs379SkM/view?usp=sharing)`
 
 ---
 
