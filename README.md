@@ -36,7 +36,7 @@ The dataset is a reduced subset prepared from CASIA handwritten Chinese characte
 The dataset was reduced to 246 classes to make the task computationally feasible while preserving the main challenges of handwritten Chinese character recognition, such as visually similar characters, stroke-level variation, and handwriting style differences.
 
 Dataset link:  
-**Kaggle:** `https://www.kaggle.com/datasets/dina25020/casia-246 `
+**Kaggle:** https://www.kaggle.com/datasets/dina25020/casia-246 
 
 Original CASIA handwriting database website:  
 https://nlpr.ia.ac.cn/databases/handwriting/home.html
